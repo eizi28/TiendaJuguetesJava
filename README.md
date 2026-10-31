@@ -3,11 +3,7 @@
 
 ## Descripción
 
-Aplicación de escritorio desarrollada en Java para administrar
-el inventario de una tienda de juguetes.
-
-El sistema permite registrar, consultar, actualizar y eliminar
-productos mediante una interfaz gráfica conectada a MySQL.
+implementación de DAOS y base de datos
 
 ## Tecnologías utilizadas
 
